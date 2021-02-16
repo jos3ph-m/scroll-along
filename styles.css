@@ -12,3 +12,11 @@ section {
   justify-content: center;
   align-items: center;
 }
+
+.one {
+  background: #f6d000ff;
+}
+
+.two {
+  background: #9ade6e;
+}
