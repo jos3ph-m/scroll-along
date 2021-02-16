@@ -14,7 +14,7 @@ section {
 }
 
 .one {
-  background: #f6d000ff;
+  background: #e0ba0fff;
 }
 
 .two {
@@ -56,6 +56,23 @@ section {
   margin-bottom: 2rem;
   font-size: 3rem;
   line-height: 1.1;
+}
+
+button {
+  padding: 1rem 3rem;
+  font-size: 1rem;
+  border: none;
+  background: #0c0d0d;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.column-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
 }
 
 .image {
